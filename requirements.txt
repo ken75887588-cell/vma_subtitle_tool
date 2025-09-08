@@ -1,6 +1,0 @@
-moviepy
-googletrans==4.0.0-rc1
-openai
-tqdm
-python-dotenv
-pyinstaller
